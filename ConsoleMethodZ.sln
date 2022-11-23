@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMethodZ", "ConsoleMethodZ\ConsoleMethodZ.csproj", "{2B63AEC6-1C05-4394-90CE-9DFA7A8AA676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMethZ", "TestMethZ\TestMethZ.csproj", "{4E50A226-0147-4172-BDAC-6DB59287743D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B63AEC6-1C05-4394-90CE-9DFA7A8AA676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B63AEC6-1C05-4394-90CE-9DFA7A8AA676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B63AEC6-1C05-4394-90CE-9DFA7A8AA676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B63AEC6-1C05-4394-90CE-9DFA7A8AA676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E50A226-0147-4172-BDAC-6DB59287743D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E50A226-0147-4172-BDAC-6DB59287743D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E50A226-0147-4172-BDAC-6DB59287743D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E50A226-0147-4172-BDAC-6DB59287743D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D58221-6A6A-432F-9799-97FBA1B7ABA5}
+	EndGlobalSection
+EndGlobal
